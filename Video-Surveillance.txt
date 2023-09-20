@@ -1,0 +1,31 @@
+NAS : http://192.168.234.138:80 (1HD 20GB + 3HD 5GB)
+
+ZM : http://192.168.234.139/zm
+
+Camera : rtsp://root123:root123@192.168.137.158:554/
+
+1. **CNIL (Commission nationale de l'informatique et des libertés)** :
+   - La CNIL est l'autorité de régulation française chargée de protéger les données personnelles et la vie privée des individus.
+   - Elle joue un rôle essentiel dans la régulation de la surveillance, en veillant à ce que les dispositifs de surveillance respectent les droits fondamentaux des personnes.
+
+2. **RGPD (Règlement général sur la protection des données)** :
+   - Le RGPD est un règlement européen qui est entré en vigueur le 25 mai 2018 et qui régit la protection des données personnelles.
+   - Il s'applique à toutes les organisations, y compris les écoles et les entreprises, qui traitent des données personnelles.
+
+3. **Surveillance dans les écoles** :
+   - Les écoles peuvent mettre en place des dispositifs de surveillance, tels que des caméras de sécurité, pour assurer la sécurité des élèves et du personnel.
+   - Cependant, la surveillance doit être proportionnée à l'objectif poursuivi, et les personnes concernées doivent être informées de la surveillance.
+
+4. **Surveillance dans les entreprises** :
+   - Les entreprises peuvent surveiller les activités de leurs employés dans certaines limites, notamment pour des raisons de sécurité et de gestion.
+   - Les employeurs doivent informer les employés de la surveillance, limiter la collecte de données aux fins autorisées, et respecter les droits des employés en matière de protection des données.
+
+5. **Consentement et finalité** :
+   - Le RGPD exige généralement le consentement des individus pour collecter et traiter leurs données personnelles, sauf s'il existe une autre base légale, comme l'exécution d'un contrat ou le respect d'une obligation légale.
+   - Les organisations doivent également spécifier clairement la finalité de la collecte des données et ne peuvent pas les utiliser à d'autres fins sans le consentement de la personne concernée.
+
+6. **Droits des individus** :
+   - Les individus ont des droits en vertu du RGPD, tels que le droit d'accès à leurs données, le droit de rectification, le droit à l'effacement (le "droit à l'oubli"), et le droit de s'opposer au traitement de leurs données dans certaines circonstances.
+
+7. **Sanctions** :
+   - La CNIL peut imposer des sanctions sévères en cas de non-conformité avec le RGPD, y compris des amendes substantielles.
